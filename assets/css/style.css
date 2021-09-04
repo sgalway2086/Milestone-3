@@ -7,6 +7,19 @@
     font-family: 'Kaisei Tokumin', serif;
 }
 
+.drop-bar{
+    display: none;
+}
+
+.drop-bar-option{
+    display: none;
+}
+
+#smallnav{
+    visibility: hidden;
+    height: 0px;
+}
+
 body{
     background-color: #f0f0f0;
 }
